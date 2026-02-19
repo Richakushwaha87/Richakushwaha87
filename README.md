@@ -1,47 +1,64 @@
 <h1 align="center">Hi 👋, I'm Richa Kushwaha</h1>
-<h3 align="center">Computer Science Engineering Student | Developer | Learner</h3>
+<h3 align="center">💻 Computer Science Engineering Student | 🚀 Aspiring Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Richakushwaha87">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Richakushwaha">
+    <img src="https://komarev.com/ghpvc/?username=Richakushwaha&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views"/>
   </a>
 </p>
 
----
-
-## 🚀 About Me
-- 🎓 Computer Science Engineering Student  
-- 💻 Interested in **Web Development, Machine learning, and Software Engineering**
-- 🌱 Currently learning **Machine learning Technology, Communication Skill**
-- 📫 Reach me at **richakushwaha87@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,machine learning,sql,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Passionate+Web+Developer;DSA+Learner;Future+Software+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+## 🌸 About Me  
+
+- 🎓 Pursuing **Computer Science Engineering**  
+- 💡 Passionate about building real-world applications  
+- 🌱 Currently learning **Data Structures & Algorithms + Full Stack Development**  
+- 🔍 Exploring **Web Development & Software Engineering**  
+- 📫 Reach me at: **richakushwaha87@gmail.com**  
+
+---
+
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richakushwaha87&layout=compact&theme=radical"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,git,github,vscode&perline=5" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/richa-kushwaha-8a6764335">
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richakushwaha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richakushwaha&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richakushwaha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:richakushwaha87@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
+---
+
+⭐ *“Striving to turn ideas into impactful digital solutions.”*
