@@ -13,7 +13,7 @@
 - 🎓 Computer Science Engineering Student  
 - 💻 Interested in **Web Development, Data Science, and Software Engineering**
 - 🌱 Currently learning **DSA, Full-Stack Development**
-- 📫 Reach me at **yourmail@gmail.com**
+- 📫 Reach me at **richakushwaha87@gmail.com**
 
 ---
 
